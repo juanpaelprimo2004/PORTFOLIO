@@ -6,9 +6,7 @@ function App() {
 
   return (
     <>
-     <header>
-      <h1>Juan Pablo Salazar</h1>
-      </header> 
+    
     </>
   )
 }
